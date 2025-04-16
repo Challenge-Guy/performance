@@ -56,10 +56,10 @@
                 },
                 {
                     "name": "Contributors",
-                    "homepage": "https://github.com/PHPCSStandards/composer-installer/graphs/contributors"
+                    "homepage": "https://github.com/PHPCSStandards/composer-installer/graphs/contributors"  
                 }
             ],
-            "description": "PHP_CodeSniffer Standards Composer Installer Plugin",
+            "description": "PHP_CodeSniffer Standards Composer Installer Plugin",  
             "homepage": "http://www.dealerdirect.com",
             "keywords": [
                 "PHPCodeSniffer",
@@ -1374,8 +1374,8 @@
             ],
             "authors": [
                 {
-                    "name": "Sebastian Bergmann",
-                    "email": "sebastian@phpunit.de"
+                    "name": "Sebastian Bergmann",  
+                    "email": "sebastian@phpunit.de"  
                 }
             ],
             "description": "Looks up which function or method a line of code belongs to",
