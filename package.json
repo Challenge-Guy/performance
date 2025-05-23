@@ -13,7 +13,7 @@
   "devDependencies": {
     "@octokit/rest": "^21.1.1",
     "@wordpress/scripts": "^30.15.0",
-    "commander": "13.1.0",
+    "commander": "14.0.0",
     "copy-webpack-plugin": "^13.0.0",
     "css-minimizer-webpack-plugin": "^7.0.2",
     "fast-glob": "^3.3.3",
