@@ -191,7 +191,7 @@ jobs:
 
       - name: Download artifact
         if: steps.artifact-existence.outputs.exists == 'true'
-        uses: actions/download-artifact@v5
+        uses: actions/download-artifact@v7
         with:
           name: ${{ matrix.plugin }}
           path: ./build/dist
