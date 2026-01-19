@@ -37,7 +37,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      - uses: styfle/cancel-workflow-action@0.12.1
+      - uses: styfle/cancel-workflow-action@0.13.0
       - uses: actions/checkout@v5
       - name: Setup Node.js (via .nvmrc)
         uses: actions/setup-node@v4
